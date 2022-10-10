@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello! I'm **Mya**, a 20-year-old college student studying **Computer Science** at Georgetown University. As of the Fall 2022 semester, I am taking a leave of absence and residing in Tallahassee, Florida. 
+Hello! I'm **Mya**, a 20-year-old college student studying **Computer Science** at **Georgetown University**. As of the Fall 2022 semester, I am taking a leave of absence and residing in Tallahassee, Florida. 
 
 - 🔭 I’m currently working on a Spotify Playlist analyzer. 
 - 🌱 I’m currently learning **C++**, **Python**, and **HTML**.
