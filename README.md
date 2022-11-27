@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue"></a>
 <a href="mailto:mya.sailouis@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Pronouns-she%2Fher-blueviolet?style=flat-square&logo">
+<img src="https://img.shields.io/badge/Pronouns-she%2Fthey-blueviolet?style=flat-square&logo">
 </p>
 
 ## About Me
